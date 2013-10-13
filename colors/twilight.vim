@@ -32,7 +32,7 @@ hi TabLineFill  guifg=#f8f8f8 ctermfg=15 guibg=#3f3f3f ctermbg=237 gui=NONE cter
 hi TabLineSel  guifg=#f8f8f8 ctermfg=15 guibg=#3f3f3f ctermbg=237 gui=bold
 hi Pmenu  guifg=#9b703f ctermfg=95 guibg=NONE gui=NONE cterm=NONE
 hi PmenuSel  guifg=NONE guibg=#3c4043 ctermbg=238 gui=NONE cterm=NONE
-hi IncSearch  guifg=NONE guibg=#343a44 ctermbg=237 gui=NONE cterm=NONE
+hi IncSearch  guifg=NONE guibg=#343a44 ctermbg=237 gui=NONE cterm=reverse
 hi Search  guifg=NONE guibg=#343a44 ctermbg=237 gui=NONE cterm=NONE
 hi Directory  guifg=#cf6a4c ctermfg=167 guibg=NONE gui=NONE cterm=NONE
 hi Folded  guifg=#5f5a60 ctermfg=59 guibg=#141414 ctermbg=233 gui=NONE cterm=NONE
